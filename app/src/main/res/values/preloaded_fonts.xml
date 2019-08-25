@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/assistant_light</item>
+        <item>@font/fira_sans_extra_condensed_thin</item>
+        <item>@font/orbitron</item>
+        <item>@font/pt_sans_narrow</item>
+        <item>@font/source_code_pro_light</item>
+    </array>
+</resources>
